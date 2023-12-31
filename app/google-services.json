@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674810247981",
+    "project_id": "push-notifications-4e1f8",
+    "storage_bucket": "push-notifications-4e1f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674810247981:android:081927a9abd11f5e30f1a4",
+        "android_client_info": {
+          "package_name": "com.chatlog.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADA8VyZwUYXZARNqsiwNrICvIoQkckRK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674810247981:android:126c38f78e2098e130f1a4",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADA8VyZwUYXZARNqsiwNrICvIoQkckRK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
